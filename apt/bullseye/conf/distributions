@@ -1,0 +1,6 @@
+Origin: Swift-MesonLSP
+Label: Swift-MesonLSP
+Codename: bullseye
+Architectures: amd64
+Components: main
+Description: Apt repository for project Swift-MesonLSP

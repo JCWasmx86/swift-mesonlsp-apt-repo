@@ -1,0 +1,5 @@
+Component: main
+Origin: Swift-MesonLSP
+Label: Swift-MesonLSP
+Architecture: amd64
+Description: Apt repository for project Swift-MesonLSP
