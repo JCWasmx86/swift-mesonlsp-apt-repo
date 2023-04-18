@@ -1,0 +1,19 @@
+Origin: Swift-MesonLSP
+Label: Swift-MesonLSP
+Codename: focal
+Date: Tue, 18 Apr 2023 04:20:10 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project Swift-MesonLSP
+MD5Sum:
+ a31236926cf4f6b575f27493defab04a 418 main/binary-amd64/Packages
+ 6bc80c6cd2d442dff1582ef5720f9053 317 main/binary-amd64/Packages.gz
+ 19f129a2ee663a30d3df27879cfa4cee 136 main/binary-amd64/Release
+SHA1:
+ 345afeb29ffe2282d14b7b244527d7ea5df18599 418 main/binary-amd64/Packages
+ 63d1beaee8129833895aeea4a63f041637bc240a 317 main/binary-amd64/Packages.gz
+ ca0eebd2135d72378883727eedd26640a21add91 136 main/binary-amd64/Release
+SHA256:
+ b6ba63ec1477299b5cb5ba19dfad40afc64f884bc09faca7dcf8bc20f90abbb5 418 main/binary-amd64/Packages
+ f9582302767e8d59d9edc64bcd688e93377fd3b2043544c3ceb6159719579fde 317 main/binary-amd64/Packages.gz
+ bb95c0c578e0746ce23b6da770381fdc9d34a4e79a74f793705722446218c186 136 main/binary-amd64/Release
