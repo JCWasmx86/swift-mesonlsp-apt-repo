@@ -1,0 +1,19 @@
+Origin: Swift-MesonLSP
+Label: Swift-MesonLSP
+Codename: bookworm
+Date: Tue, 18 Apr 2023 04:21:12 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project Swift-MesonLSP
+MD5Sum:
+ 2bb712f09ee4a191df82a137fea53288 418 main/binary-amd64/Packages
+ f0a46d4a356dc7a77bac50ab346a16c6 317 main/binary-amd64/Packages.gz
+ 19f129a2ee663a30d3df27879cfa4cee 136 main/binary-amd64/Release
+SHA1:
+ 5660091f066b63fac52802af5977f6323712783b 418 main/binary-amd64/Packages
+ 3c8fea5f7a88aa1a39a410d04c0910ac89b4c88c 317 main/binary-amd64/Packages.gz
+ ca0eebd2135d72378883727eedd26640a21add91 136 main/binary-amd64/Release
+SHA256:
+ 4d09009299cee0390d910029d50abc3d1eeb594ac78ef5862ad5dc0fa9671646 418 main/binary-amd64/Packages
+ d7d63c8f8b772237758a367582dd3ef30c6695cdd3fb05534c79496136b7f900 317 main/binary-amd64/Packages.gz
+ bb95c0c578e0746ce23b6da770381fdc9d34a4e79a74f793705722446218c186 136 main/binary-amd64/Release
