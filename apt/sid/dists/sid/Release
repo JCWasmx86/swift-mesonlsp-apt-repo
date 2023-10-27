@@ -1,19 +1,19 @@
 Origin: Swift-MesonLSP
 Label: Swift-MesonLSP
 Codename: sid
-Date: Wed, 25 Oct 2023 19:33:19 UTC
+Date: Fri, 27 Oct 2023 13:28:26 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for project Swift-MesonLSP
 MD5Sum:
- 1b3f09baaf2705eefd2ee950320642ab 424 main/binary-amd64/Packages
- 9ae5c57afff5d3eb04fb0be62a3f7834 320 main/binary-amd64/Packages.gz
+ a4482f5d6dbb22286767803668ad3305 424 main/binary-amd64/Packages
+ 409ca46d48af6ef574d7b90969911fcc 319 main/binary-amd64/Packages.gz
  19f129a2ee663a30d3df27879cfa4cee 136 main/binary-amd64/Release
 SHA1:
- bfd242d08d9c432b170a6a526c56a342690874fb 424 main/binary-amd64/Packages
- 4447959b21f1f014cd5a4291480c7729eedfe6f6 320 main/binary-amd64/Packages.gz
+ b88eca158e6334a8a4fd96da7ba5094c610deac4 424 main/binary-amd64/Packages
+ 78e4287f0076c36356565382b994203925a9618e 319 main/binary-amd64/Packages.gz
  ca0eebd2135d72378883727eedd26640a21add91 136 main/binary-amd64/Release
 SHA256:
- a3a71f8640d72d0430d257294c52b56068f9ddc0197edc6647d56108914002ce 424 main/binary-amd64/Packages
- 1dfc956b558e660f730b6047130a6fce0432710b6373eedcc2ef8401e2303a45 320 main/binary-amd64/Packages.gz
+ 812987912f86e00b69c47f90c61e54bf98a63483725073339c802b3a8da9d239 424 main/binary-amd64/Packages
+ 5abefa29be100088cef7beef707b67d2767d6af38b3fb99b9225ccaec723f43d 319 main/binary-amd64/Packages.gz
  bb95c0c578e0746ce23b6da770381fdc9d34a4e79a74f793705722446218c186 136 main/binary-amd64/Release
