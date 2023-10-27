@@ -1,13 +1,13 @@
 Package: swift-mesonlsp
-Version: 3.0.13
+Version: 3.0.14
 Architecture: amd64
 Maintainer: JCWasmx86 <JCWasmx86@t-online.de>
 Priority: standard
 Section: misc
-Filename: pool/main/s/swift-mesonlsp/swift-mesonlsp_3.0.13_amd64.deb
-Size: 32124116
-SHA256: 40e2f41b517f4a80e4a1867c5546e2113ce0c7216131c8b2d10c14d4ac33de78
-SHA1: fe3fc9afdf898da5e4768775ff5831414c9c4a7d
-MD5sum: f24d6a7e497ccb55dffcbfc2ab5712f4
+Filename: pool/main/s/swift-mesonlsp/swift-mesonlsp_3.0.14_amd64.deb
+Size: 32171412
+SHA256: 1c9726a3528ad298ef87f322afae333d61258321fee0401048e71befc9dc2f70
+SHA1: 2b511473ec88591ca225667a53f8f3346f5aff6d
+MD5sum: 720de06deb495840b2a172d80ceeeb79
 Description: Language server for meson
 
