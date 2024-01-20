@@ -1,3 +1,8 @@
+# Archived due to too high maintenance efforts!
+
+Starting with the C++-Version (4.0.0), this repo won't be updated! Alternatives are the fully static builds or compiling it yourself. In case there is anybody volunteering to maintain
+the deb files, I would reconsider this decision
+
 # swift-mesonlsp-apt-repo
 APT Repo for Swift-MesonLSP
 ## Setup
